@@ -1,0 +1,9 @@
+.share a:hover {
+	border: 1px solid red;
+}
+
+@media screen and (max-width: 785px) {		
+	.header-right {
+		width: 265px;
+	}
+}
